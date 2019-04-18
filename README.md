@@ -17,11 +17,12 @@
 
 
 ## 页面展示
+*首页*
 ![index](https://github.com/liangyaru/java/blob/master/pic/2.jpg)
-
+*列表页*
 ![products](https://github.com/liangyaru/java/blob/master/pic/3.jpg)
-
+*详情页*
 ![single](https://github.com/liangyaru/java/blob/master/pic/1.jpg)
-
+*购物车页*
 ![cart](https://github.com/liangyaru/java/blob/master/pic/4.jpg)
 

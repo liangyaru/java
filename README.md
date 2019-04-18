@@ -1,7 +1,7 @@
 # 蛋糕店   Web后台开发
 此项目是课程设计<br/>
-***<font color="红色">Item是jdbc实现</font>***
-***<font color="红色">SHItem是SSH实现</font>***
+<font color="红色">tem是jdbc实现</font>
+***SHItem是SSH实现***
 <br/>
 <br/>
 

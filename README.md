@@ -17,11 +17,11 @@
 
 
 ## 页面展示
-![首页](https://github.com/liangyaru/java/blob/master/pic/2.jpg)
+![主页](https://github.com/liangyaru/java/blob/master/pic/2.jpg)
 
-![列表页](https://github.com/liangyaru/java/blob/master/pic/3.jpg)
+![蛋糕列表页](https://github.com/liangyaru/java/blob/master/pic/3.jpg)
 
-![详情页](https://github.com/liangyaru/java/blob/master/pic/4.jpg)
+![蛋糕详情页](https://github.com/liangyaru/java/blob/master/pic/1.jpg)
 
-![展示页](https://github.com/liangyaru/java/blob/master/pic/1.jpg)
+![购物车展示页](https://github.com/liangyaru/java/blob/master/pic/4.jpg)
 
